@@ -31,5 +31,6 @@ This project was created to practice real-world data analysis using Python. It h
 
 ---
 
-✅ Suitable for fresher-level data analyst roles, this project shows skills in data wrangling, basic visualizations, and business understanding.
+
+
 
